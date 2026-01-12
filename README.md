@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,html,tailwind,js,ts,react,vue,nextjs,figma,
-    nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovim &theme=light" />
+    nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovimtheme=light" />
   </a>
 </p>
 
