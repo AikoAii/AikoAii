@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -15,10 +15,11 @@ jobs:
         with:
           github_user_name: AikoAii
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-mocha.svg?color_snake=#f5c2e7&color_dots=#1e1e2e,#313244,#45475a,#585b70,#cdd6f4
+            dist/ocean.gif?color_snake=#89dceb&color_dots=#1e1e2e,#313244,#45475a,#585b70,#cdd6f4&color_background=#0b1220
 
-      - name: Push snake to output branch
+      - name: Push snake files
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
