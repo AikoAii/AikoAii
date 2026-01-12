@@ -76,9 +76,7 @@ git,github,docker,linux,arch,bash,neovim
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github.com/AikoAii/AikoAii/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://github.com/AikoAii/AikoAii/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
