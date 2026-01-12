@@ -47,11 +47,10 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode,python&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,html,tailwind,js,ts,react,vue,nextjs,figma,
+    nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovimtheme=light" />
+  </a>
 </p>
 
 ---
