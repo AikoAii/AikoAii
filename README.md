@@ -13,20 +13,43 @@
 ## 💫 About Me
 
 ```txt
-🧑 Name        : Annur Musthofa
+🧑 Name       : Annur Musthofa
 🎓 Education  : Senior High School
-💻 Focus      : C / C++ • Machine Learning • Fullstack • Cyber Secucity
+💻 Focus      : C / C++ • Machine Learning • Fullstack
 🎨 Creative   : Photographer • Guitarist • Artist
-⚡ Motto      : Learn deeply, build boldly
+⚡ Motto      : Try to be better~
 ```
 
-* 🔭 Currently sharpening **problem-solving & algorithms**
+<!-- * 🔭 Currently sharpening **problem-solving & algorithms**
 * 🌱 Learning **low-level programming & AI concepts**
 * 🚀 Dreaming to become a **professional AI Engineer**
-* 🎧 Code better with music & night vibes
+* 🎧 Code better with music & night vibes -->
 
 ---
 
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,figma,html,tailwind,js,ts,react,vue,nextjs,nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovim&theme=light)](https://skillicons.dev)
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=tokyonight)
+
+---
+
+
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake-mocha.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/AikoAii/AikoAii/blob/output/ocean.gif" />
+</picture>
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -37,40 +60,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=
-c,cpp,cmake,qt,arduino,raspberrypi,
-html,tailwind,js,ts,react,vue,nextjs,figma,
-nodejs,express,elysia,bun,mongodb,mysql,postgres,
-py,pytorch,tensorflow,
-go,kotlin,
-git,github,docker,linux,arch,bash,neovim
-&theme=light" />
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake-mocha.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://github.com/AikoAii/AikoAii/blob/output/ocean.gif" />
-</picture>
 
 ---
 
