@@ -3,7 +3,7 @@
 # Yahoo, I'm **Aiko**:3
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6CF&center=true&vCenter=true&width=500&lines=Programming+Enthusiast;AI+Engineer+in+Progress;C%2FC%2B%2B+Learner;Code+%7C+Create+%7C+Explore" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=800&color=6CF&center=true&vCenter=true&width=500&lines=Programming+Enthusiast;AI+Engineer+in+Progress;C%2FC%2B%2B+Learner;Code+%7C+Create+%7C+Explore;Shima+Rin:3" />
 </p
 
 <!-- *Turning coffee ☕ into code & ideas into reality* -->
@@ -55,7 +55,7 @@
 ## 🌐 Social
 
 <p align="left">
-  <a href="https://facebook.com/Chikochiii">
+  <a href="https://facebook.com/Aiko0Ai">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:yaikoaiii@gmail.com">
