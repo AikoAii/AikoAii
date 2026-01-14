@@ -10,12 +10,12 @@
 
 ---
 
-## 💫 About Me
+## 💫About Me
 
 ```txt
 🧑 Name       : Annur Musthofa
 🎓 Education  : Senior High School
-💻 Focus      : C / C++ • Machine Learning • Fullstack
+💻 Focus      : C / C++ • Machine Learning • AI Engineering
 🎨 Creative   : Photographer • Guitarist • Artist
 ⚡ Motto      : Try to be better~
 ```
@@ -27,21 +27,23 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,figma,html,tailwind,js,ts,react,vue,nextjs,nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovim&theme=light)](https://skillicons.dev)
 
 ---
-## 📊 GitHub Stats
+## 📊GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=tokyonight)
 
 ---
 
 
 
-## Contribution Activity
+<!-- ## Contribution Activity
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake-mocha.svg" />
@@ -49,8 +51,8 @@
   <img alt="github contribution snake" src="https://github.com/AikoAii/AikoAii/blob/output/ocean.gif" />
 </picture>
 
----
-## 🌐 Connect With Me
+--- -->
+## 🌐 Social
 
 <p align="left">
   <a href="https://facebook.com/Chikochiii">
