@@ -19,17 +19,11 @@
 🎨 Creative   : Photographer • Guitarist • Artist
 ⚡ Motto      : Try to be better~
 ```
-
-<!-- * 🔭 Currently sharpening **problem-solving & algorithms**
-* 🌱 Learning **low-level programming & AI concepts**
-* 🚀 Dreaming to become a **professional AI Engineer**
-* 🎧 Code better with music & night vibes -->
-
 ---
 
 ## 💻Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,figma,html,tailwind,js,ts,react,vue,nextjs,nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,figma,html,tailwind,js,ts,react,,nextjs,nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovim&theme=light)](https://skillicons.dev)
 
 ---
 ## 📊GitHub Stats
@@ -39,19 +33,6 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=tokyonight)
 
 ---
-
-
-
-<!-- ## Contribution Activity
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake-mocha.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AikoAii/AikoAii/blob/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://github.com/AikoAii/AikoAii/blob/output/ocean.gif" />
-</picture>
-
---- -->
 ## 🌐 Social
 
 <p align="left">
