@@ -23,7 +23,7 @@
 
 ## 💻Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,figma,html,tailwind,js,ts,react,,nextjs,nodejs,express,elysia,bun,mongodb,mysql,postgres,py,pytorch,tensorflow,go,kotlin,git,github,docker,linux,arch,bash,neovim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,arduino,raspberrypi,figma,html,tailwind,js,ts,nodejs,express,elysia,bun,mysql,postgres,py,pytorch,tensorflow,go,git,github,linux,arch,bash,neovim&theme=light)](https://skillicons.dev)
 
 ---
 ## 📊GitHub Stats
