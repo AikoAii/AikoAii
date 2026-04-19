@@ -15,7 +15,7 @@
 ```txt
 🧑 Name       : Annur Musthofa
 🎓 Education  : Senior High School
-💻 Focus      : C / C++ • Machine Learning • AI Engineering
+💻 Focus      : Low-level and AI/ML Engineering
 🎨 Creative   : Photographer • Guitarist • Artist
 ⚡ Motto      : Try to be better~
 ```
@@ -28,9 +28,8 @@
 ---
 ## 📊GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=github_dark)
 
 ---
 ## 🌐 Social
@@ -60,3 +59,9 @@
 
 ✨ **Thanks for stopping by!** ✨
 *“Stay curious, stay humble, keep building.”*
+
+---
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=AikoAii&repo=Totally-Not-Malware&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=AikoAii&repo=HelioCelestia&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=AikoAii&repo=pendulum-simulation&theme=github_dark)
