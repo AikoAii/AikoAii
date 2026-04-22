@@ -1,6 +1,6 @@
 ![Rin Chill](img/rin2.gif)
 
-# Yahoo, I'm Aiko Ai :3
+#  Yahoo´-     I'm Aiko Ai :3
 
 ###### Building skills in C & systems programming | Exploring AI/ML | Code • Capture • Create
 
@@ -26,12 +26,19 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=github_dark" height="160"/>
+</p>
 
 ---
-## Now I'm Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&redirect=true)
+<h2 align="center">ᯓ Now I'm Playing ᯓ </h2>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark"/>
+  </a>
+</p>
 
 ---
 
@@ -42,7 +49,6 @@
   <a href="https://github.com/AikoAii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <!-- Professional -->
   <!-- <a href="https://linkedin.com/in/USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -98,6 +104,16 @@
 
 ![Rin](img/rin1.gif)
 
-⊹₊ **Thanks for stopping by!** ⊹₊
+<!-- ⊹₊ **Thanks for stopping by!** ⊹₊
 
-*“Stay curious, stay humble, keep building.”*
+*“Stay curious, stay humble, keep building.”*--- -->
+
+<h5 align="center">
+<span style="color:#6CF">⊹₊ Thanks for stopping by ⊹₊.</span>
+</h5>
+
+<p align="center">
+  <i>Stay curious • Stay humble • Keep building</i>
+</p>
+
+---
