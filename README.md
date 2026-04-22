@@ -2,9 +2,7 @@
 
 # Yahoo, I'm Aiko Ai :3
 
-###### Building skills in C & systems programming | Exploring AI/ML
-
-###### Code • Capture • Create
+###### Building skills in C & systems programming | Exploring AI/ML | Code • Capture • Create
 
 ---
 
@@ -67,9 +65,9 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 
-  <a href="https://discord.com/users/aikoaii">
+  <!-- <a href="https://discord.com/users/aikoaii">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  </a> -->
 
   <!-- Content -->
   <a href="https://youtube.com/Aiko-Aii">
@@ -81,7 +79,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://facebook.com/Aiko0Ai">
+  <a href="https://facebook.com/AikooAii">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
