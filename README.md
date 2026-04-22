@@ -44,7 +44,7 @@
 
 ##  Social
 
-<p align="left">
+<p align="center">
   <!-- Core -->
   <a href="https://github.com/AikoAii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
