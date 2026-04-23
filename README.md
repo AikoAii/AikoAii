@@ -1,6 +1,8 @@
 ![Rin Chill](img/rin2.gif)
 
-#  Yahoo´-     I'm Aiko Ai :3
+<h1>
+    <span style="color: #fcee33;">Yahoo´-     I'm Aiko Ai :3</span>
+</h1>
 
 ###### Building skills in C & systems programming | Exploring AI/ML | Code • Capture • Create
 
@@ -35,8 +37,8 @@
 <h2 align="center">ᯓ Now I'm Playing ᯓ </h2>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile">
   </a>
 </p>
 
