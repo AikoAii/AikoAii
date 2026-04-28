@@ -4,7 +4,7 @@
     <span style="color: #fcee33;">Yahoo´-     I'm Aiko Ai :3</span>
 </h1>
 
-###### Building skills in C & systems programming | Exploring AI/ML | Code • Capture • Create
+###### Building skills in C/C++ & systems programming | Exploring AI/ML | Code • Capture • Create
 
 ---
 
@@ -12,7 +12,7 @@
 
 ```txt
  Name       : Annur Musthofa (Aiko Ai)
- Focus      : C & systems programming, backend basics  
+ Focus      : C/C++ & systems programming, backend basics  
  Exploring  : AI/ML and data  
  Currently  : Building projects step by step  
  Creative   : Photography • Guitar • Art
