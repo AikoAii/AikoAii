@@ -1,7 +1,7 @@
 ![Rin Chill](img/rin2.gif)
 
 <h1>
-    <span style="color: #fcee33;">Yahoo´-     I'm Aiko Ai :3</span>
+    <span style="color: #fcee33;">Yahoo´-     I'm Aiko :3</span>
 </h1>
 
 ###### Building skills in C/C++ & systems programming | Exploring AI/ML | Code • Capture • Create
@@ -11,10 +11,10 @@
 ## About Me
 
 ```txt
- Name       : Annur Musthofa (Aiko Ai)
+ Name       : Annur Musthofa (Aiko Ai, Chikochi)
  Focus      : C/C++ & systems programming, backend basics  
- Exploring  : AI/ML and data  
- Currently  : Building projects step by step  
+ Exploring  : AI/ML and reverse engineering 
+ Currently  : Building projects step by step 
  Creative   : Photography • Guitar • Art
  Motto      : Try To Be Better ~
 ```
