@@ -106,10 +106,6 @@
 
 ![Rin](img/rin1.gif)
 
-<!-- ⊹₊ **Thanks for stopping by!** ⊹₊
-
-*“Stay curious, stay humble, keep building.”*--- -->
-
 <h5 align="center">
 <span style="color:#6CF">⊹₊ Thanks for stopping by ⊹₊.</span>
 </h5>
