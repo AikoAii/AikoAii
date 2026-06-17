@@ -1,8 +1,7 @@
 ![Rin Chill](img/rin2.gif)
-
 # Yahoo~ I'm Aiko :3
 
-Building intelligent systems through machine learning, cognitive architectures, and low-level programming.
+A curious student exploring AI, C++, cognitive systems, Linux, and occasionally getting lost in random side projects.
 
 ---
 
@@ -10,9 +9,9 @@ Building intelligent systems through machine learning, cognitive architectures, 
 
 ```txt
 Name      : Annur Musthofa (Aiko)
-Focus     : AI/ML & Cognitive Systems
-Learning  : C/C++, Neural Networks, Machine Learning
-Exploring : Cognitive Architectures
+Interests : AI/ML, Cognitive Systems, C++, Linux
+Currently : Building projects and learning new things
+Creative  : Photography, Guitar, Art
 Motto     : Try To Be Better ~
 ```
 ---
@@ -31,7 +30,7 @@ Motto     : Try To Be Better ~
 </p>
 
 ---
-<h4 align="left">ᯓ Now I'm Playing ᯓ </h4>
+<h4 align="left">ᯓ Currently Listening ᯓ </h4>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -41,7 +40,7 @@ Motto     : Try To Be Better ~
 
 ---
 
-##  Social
+## Find Me Around The Internet
 
 <p align="left">
   <a href="https://github.com/AikoAii">
@@ -68,24 +67,33 @@ Motto     : Try To Be Better ~
 
 ---
 
-## Support Me
+## Buy Me A Coffee ☕
 
 <p align="left">
   <a href="https://trakteer.id/aikoaii" target="_blank">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40"/>
+    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" alt="Trakteer"/>
+  </a>
+
+  <a href="https://ko-fi.com/aikoai" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="Ko-fi"/>
   </a>
 </p>
+
 
 ---
 
 ![Rin](img/rin1.gif)
 
-<h6 align="center">
-<i>⊹₊ Thanks for stopping by ⊹₊.</i>
-</h6>
+<p align="center">
+  <i>⊹₊ Thanks for stopping by ⊹₊</i>
+</p>
 
 <p align="center">
-  <i>Stay curious • Stay humble • Keep building</i>
+  <sub>
+    Stay curious • Keep building • Break things • Learn things
+  </sub>
 </p>
+
+
 
 ---
