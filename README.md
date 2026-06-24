@@ -24,7 +24,7 @@ Motto     : Try To Be Better ~
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AikoAii&show_icons=true&theme=github_dark" height="160"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=github_dark" height="160"/>
 </p>
