@@ -8,11 +8,19 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 ## About Me
 
 ```txt
-Name      : Annur Musthofa (Aiko)
-Interests : AI/ML, Cognitive Systems, C++, Linux
-Currently : Building projects and learning new things
-Creative  : Photography, Guitar, Art
-Motto     : Try To Be Better ~
+┌─── [ archiko@Aiko ~ ] ─────────────────────────────────────────────┐
+│                                                                    │
+│  $ nurofetch --about                                               │
+│                                                                    │
+│                Name      : Annur Musthofa (Aiko)                   │ 
+│     /\_/\      Interests : AI/ML, Cognitive Systems, C++, Linux    │
+│    ( o.o )     Currently : Building projects & learning new things │
+│     > ^ <      Creative  : Photography, Guitar, Art                │
+│                Motto     : Try To Be Better ~                      │
+│                                                                    │
+│  $ _                                                               │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 ---
 
