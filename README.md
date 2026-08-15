@@ -8,23 +8,23 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 ## About Me
 
 ```txt
-┌─── [ Aiko@archiko ~ ] ──────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                             │
-│  $ nurofetch --about                                                                                        │
-│                                                                                                             │
-│                         △ : Aiko@archiko                                                                   │
-│                        ┌───────────────────────────────────────────────────────┐                            │
-│         /\_/\            Name      : Annur Musthofa (Aiko)                                                  │
-│        ( o.o )           Interests : AI/ML, Cognitive Systems, C++, Linux                                   │
-│         > ^ <            Currently : Building projects & learning new things                                │
-│         |   |            Creative  : Photography, Guitar, Art                                               │
-│         u - u            Motto     : Try To Be Better ~                                                     │
-│           v            └───────────────────────────────────────────────────────┘                            │
-│                          ● ● ● ● ● ● ● ●                                                                    │
-│                                                                                                             │
-│  $ _                                                                                                        │
-│                                                                                                             │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌─── [ Aiko@archiko ~ ] ────────────────────────────────────────────────────────────────────┐
+│                                                                                           │
+│  $ nurofetch --about                                                                      │
+│                                                                                           │
+│                         △ : Aiko@archiko                                                 │
+│                        ┌───────────────────────────────────────────────────────┐          │
+│         /\_/\            Name      : Annur Musthofa (Aiko)                                │
+│        ( o.o )           Interests : AI/ML, Cognitive Systems, C++, Linux                 │
+│         > ^ <            Currently : Building projects & learning new things              │
+│         |   |            Creative  : Photography, Guitar, Art                             │
+│         u - u            Motto     : Try To Be Better ~                                   │
+│           v            └───────────────────────────────────────────────────────┘          │
+│                          ● ● ● ● ● ● ● ●                                                  │
+│                                                                                           │
+│  $ _                                                                                      │
+│                                                                                           │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 ---
 
