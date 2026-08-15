@@ -41,14 +41,13 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AikoAii&layout=compact&theme=github_dark" height="160"/>
 </p>
 
----
-<h4 align="left">ᯓ Currently Listening ᯓ </h4>
+<!-- <h4 align="left">ᯓ Currently Listening ᯓ </h4>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7v7liwuso6o2ectx4iz36fpsy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="370">
   </a>
-</p>
+</p> -->
 
 ---
 
