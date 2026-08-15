@@ -8,19 +8,19 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 ## About Me
 
 ```txt
-┌─── [ archiko@Aiko ~ ] ─────────────────────────────────────────────┐
-│                                                                    │
-│  $ nurofetch --about                                               │
-│                                                                    │
-│                Name      : Annur Musthofa (Aiko)                   │ 
-│     /\_/\      Interests : AI/ML, Cognitive Systems, C++, Linux    │
-│    ( o.o )     Currently : Building projects & learning new things │
-│     > ^ <      Creative  : Photography, Guitar, Art                │
-│                Motto     : Try To Be Better ~                      │
-│                                                                    │
-│  $ _                                                               │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+┌─── [ archiko@Aiko ~ ] ──────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                             │
+│  $ nurofetch --about                                                                                        │
+│                                                                                                             │
+│                Name      : Annur Musthofa (Aiko)                                                            │ 
+│     /\_/\      Interests : AI/ML, Cognitive Systems, C++, Linux                                             │
+│    ( o.o )     Currently : Building projects & learning new things                                          │
+│     > ^ <      Creative  : Photography, Guitar, Art                                                         │
+│                Motto     : Try To Be Better ~                                                               │
+│                                                                                                             │
+│  $ _                                                                                                        │
+│                                                                                                             │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 ---
 
