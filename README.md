@@ -8,15 +8,19 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 ## About Me
 
 ```txt
-┌─── [ archiko@Aiko ~ ] ──────────────────────────────────────────────────────────────────────────────────────┐
+┌─── [ Aiko@archiko ~ ] ──────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                                             │
 │  $ nurofetch --about                                                                                        │
 │                                                                                                             │
-│                Name      : Annur Musthofa (Aiko)                                                            │ 
-│     /\_/\      Interests : AI/ML, Cognitive Systems, C++, Linux                                             │
-│    ( o.o )     Currently : Building projects & learning new things                                          │
-│     > ^ <      Creative  : Photography, Guitar, Art                                                         │
-│                Motto     : Try To Be Better ~                                                               │
+│                         △ : Aiko@archiko                                                                   │
+│                        ┌───────────────────────────────────────────────────────┐                            │
+│         /\_/\            Name      : Annur Musthofa (Aiko)                                                  │
+│        ( o.o )           Interests : AI/ML, Cognitive Systems, C++, Linux                                   │
+│         > ^ <            Currently : Building projects & learning new things                                │
+│         |   |            Creative  : Photography, Guitar, Art                                               │
+│         u - u            Motto     : Try To Be Better ~                                                     │
+│           v            └───────────────────────────────────────────────────────┘                            │
+│                          ● ● ● ● ● ● ● ●                                                                    │
 │                                                                                                             │
 │  $ _                                                                                                        │
 │                                                                                                             │
