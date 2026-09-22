@@ -1,7 +1,7 @@
 ![Rin Chill](img/rin2.gif)
 # Yahoo~ I'm Aiko :3
 
-A curious student exploring AI, C++, cognitive systems, Linux, and occasionally getting lost in random side projects.
+A curious student exploring Game Development, AI & Machine Learning, Linux, and occasionally getting lost in random low-level side projects.
 
 ---
 
@@ -15,8 +15,8 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 │                         △ : Aiko@archiko                                                 │
 │                        ┌───────────────────────────────────────────────────────┐          │
 │         /\_/\            Name      : Annur Musthofa (Aiko)                                │
-│        ( o.o )           Interests : AI/ML, Cognitive Systems, C++, Linux                 │
-│         > ^ <            Currently : Building projects & learning new things              │
+│        ( o.o )           Focus     : Gamedev (C++/Raylib), ML & Data Science              │
+│         > ^ <            Exploring : Web Dev, Low-Level Systems & Linux Tools             │
 │         |   |            Creative  : Photography, Guitar, Art                             │
 │         u - u            Motto     : Try To Be Better ~                                   │
 │           v            └───────────────────────────────────────────────────────┘          │
@@ -30,7 +30,9 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 
 ## Skills
 
-![icons](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,linux,git,cmake,docker,numpy,pandas,scikitlearn,pytorch,tensorflow,jupyter,neovim,arch,mysql,postgresql,mongodb,&theme=dark)
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,godot,python,javascript,typescript,html,css,linux,numpy,pandas,scikitlearn,pytorch,tensorflow,jupyter&theme=dark"/>
+</p>
 
 ---
 
